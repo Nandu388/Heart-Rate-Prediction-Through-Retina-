@@ -148,6 +148,8 @@ The dashboard includes:
 ---
 # Output Screenshots
 <img width="952" height="490" alt="Screenshot 2026-06-06 194425" src="https://github.com/user-attachments/assets/e4dcab28-56a6-4d4a-bcf8-387dfc29532b" />
+<img width="952" height="490" alt="Screenshot 2026-06-06 194238" src="https://github.com/user-attachments/assets/006ebac2-3a50-40ee-9959-79a073b90790" />
+
 
 
 
