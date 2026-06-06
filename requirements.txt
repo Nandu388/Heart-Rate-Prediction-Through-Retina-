@@ -1,0 +1,7 @@
+opencv-python
+opencv-contrib-python
+mediapipe
+numpy
+scipy
+imutils
+matplotlib
