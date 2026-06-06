@@ -1,4 +1,4 @@
-# Retina Heart Rate Prediction Through Retina 👁️❤️
+#  Heart Rate Prediction Through Retina 👁️❤️
 
 A professional AI-based real-time heart rate prediction system using:
 
